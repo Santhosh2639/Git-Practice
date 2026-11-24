@@ -1,0 +1,8 @@
+# My Git Practice
+
+This is my first Git and GitHub practice project.
+
+I am learning:
+- Git
+- GitHub
+- Version Control
